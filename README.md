@@ -1,9 +1,3 @@
-# imgShare
-
-imgShare is a web application to share images, comments, and more.
-
-![](docs/screenshot1.png)
-
 # Environment Variables
 
 - `MONGODB_URI`, the mongodb database uri
